@@ -1,3 +1,6 @@
 [submodule "Spoon-Knife"]
 	path = Spoon-Knife
 	url = https://github.com/octocat/Spoon-Knife.git
+[submodule "subdemo"]
+	path = subdemo
+	url = https://github.com/binarymaze/subdemo.git
